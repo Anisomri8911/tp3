@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp3</string>
+    <string name="euro_dinar_tunisien"><![CDATA[Euro -> Dinar Tunisien]]></string>
+    <string name="conversion_de_monnais">Conversion de Monnais</string>
+    <string name="dinar_tunisian_euro"><![CDATA[Dinar Tunisian -> Euro]]></string>
+    <string name="convertir">Convertir</string>
+</resources>
